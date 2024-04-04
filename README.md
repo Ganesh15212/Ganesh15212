@@ -1,4 +1,4 @@
-### Hi there 👋 I'M Ganesh Karale
+###<center>  Hi there 👋 I'M Ganesh Karale</center>
 
 <!--
 **Ganesh15212/Ganesh15212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
