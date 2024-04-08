@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">  Hi there 👋 I'M Ganesh Karale</h1>
+<h1 style="text:center;">  Hi there 👋 I'M Ganesh Karale</h1>
 <h6>A passionate React developer from India</h6>
 <p>💬 Ask me about</p>
 <p>📫 How to reach me</p>
