@@ -1,6 +1,6 @@
 <h1 align="center">  Hi there 👋 I'M Ganesh Karale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src=""></img>
+<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=+github+gif+images&tbm=isch&ved=2ahUKEwjkstmWxrKFAxWazDgGHRGcD2QQ2-cCegQIABAA&oq=+github+gif+images&gs_lp=EgNpbWciEiBnaXRodWIgZ2lmIGltYWdlc0iyH1DnC1jCHHABeACQAQCYAbkBoAGmCqoBAzAuOLgBA8gBAPgBAYoCC2d3cy13aXotaW1nwgIEECMYJ8ICBRAAGIAEwgIKEAAYgAQYigUYQ8ICBhAAGAcYHogGAQ&sclient=img&ei=ldkTZqSUMpqZ4-EPkbi-oAY&bih=641&biw=1366&prmd=ivsnmbtz#imgrc=47chckvIQOvI5M&imgdii=TU6M-pr48V2rEM"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh15212&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh15212" /> </p>
 
