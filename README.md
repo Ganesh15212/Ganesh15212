@@ -6,6 +6,8 @@
 <p>📫 How to reach me <a href="">ganeshkarle1998@gmail.com</a></p>
 <p>⚡ Fun fact : I Think I Am Funny</p>
 
+<h3>Skill</h3>
+
 
 <!--
 **Ganesh15212/Ganesh15212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
