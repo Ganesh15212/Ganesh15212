@@ -3,6 +3,8 @@
 <p>💬 Ask me about</p>
 <p>📫 How to reach me</p>
 <p>⚡ Fun fact</p>
+<img src=' ![gip](https://github.com/Ganesh15212/Ganesh15212/assets/98262081/7ea9e636-4ae8-4792-87be-3b289499416c)
+'></img>
 
 <!--
 **Ganesh15212/Ganesh15212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
