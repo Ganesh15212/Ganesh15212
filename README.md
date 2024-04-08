@@ -1,4 +1,5 @@
 <h1 style="text-align:center;">  Hi there 👋 I'M Ganesh Karale</h1>
+<h6>A passionate React developer from India</h6>
 
 <!--
 **Ganesh15212/Ganesh15212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
