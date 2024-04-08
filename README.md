@@ -1,5 +1,5 @@
 <h1 style="text:center;">  Hi there 👋 I'M Ganesh Karale</h1>
-<h6>A passionate React developer from India</h6>
+<h4>A passionate React developer from India</h4>
 <p>💬 Ask me about</p>
 <p>📫 How to reach me</p>
 <p>⚡ Fun fact</p>
