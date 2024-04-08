@@ -1,8 +1,8 @@
 <h1 align="center">  Hi there 👋 I'M Ganesh Karale</h1>
 <h4 align="center">A passionate React developer from India</h4>
 <p>💬 Ask me about</p>
-<p>📫 How to reach me<a href="">ganeshkarle1998@gmail.com</a></p>
-<p>⚡ Fun fact</p>
+<p>📫 How to reach me <a href="">ganeshkarle1998@gmail.com</a></p>
+<p>⚡ Fun fact : I Think I Am Funny</p>
 
 
 <!--
