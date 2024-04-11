@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh15212&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh15212" /> </p>
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at https://ganesh15212.github.io/portfolio/
 
 - 📫 How to reach me **ganeshkarle1998@gmail.com**
 
